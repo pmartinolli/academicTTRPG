@@ -32,8 +32,8 @@ var texts =
         ,
         "welcomeBody":
             {
-                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in english and french. https://www.zotero.org/groups/446523/academicttrpg",
-                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle, surtout en anglais et en français. https://www.zotero.org/groups/446523/academicttrpg"
+                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in english and french.",
+                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle, surtout en anglais et en français."
             }
         ,
         "searchButton":
