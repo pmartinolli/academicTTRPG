@@ -1,4 +1,4 @@
-[
+var catData = [
 	{
 		"id": "http://zotero.org/groups/446523/items/8URB6PJX",
 		"type": "legal_case",
