@@ -32,8 +32,8 @@ var texts =
         ,
         "welcomeBody":
             {
-                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in english and french. <br><br>Free download for <a href=\"https://www.zotero.org/groups/446523\">Zotero</a> and <a href=\"https://docs.google.com/document/d/1-vbQwr0PBzLRhqBD0tE9q71BF3w9InsBi5tQC1l8p3Q/edit?usp=sharing\">BibTeX</a>.",
-                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle sur table. Surtout en anglais et en français.<br><br>Téléchargement libre pour <a href=\"https://www.zotero.org/groups/446523\">Zotero</a> et <a href=\"https://docs.google.com/document/d/1-vbQwr0PBzLRhqBD0tE9q71BF3w9InsBi5tQC1l8p3Q/edit?usp=sharing\">BibTeX</a>."
+                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in english and french.",
+                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle sur table. Surtout en anglais et en français."
             }
         ,
         "searchButton":
