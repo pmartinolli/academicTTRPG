@@ -2,164 +2,164 @@ var texts =
     {
         "headline":
             {
-                "english": "Catalogue of the Rudolf Geyer Collection",
-                "german": "Katalog von dem Nachlass Rudolf Geyer"
+                "english": "Bibliography of TTRPG",
+                "french": "Bibliographie de jeux de rôle sur table"
             }
         ,
         "stiftFlorianTip":
             {
-                "english": "Go to Stift Florian's Website",
-                "german": "Gehe zur Website von Stift Florian"
+                "english": "Webite of Pascal Martinolli",
+                "french": "Site de Pascal Martinolli"
             }
         ,
         "digitalOrientalistTip":
             {
-                "english": "Made by L.W.C. van Lit",
-                "german": "hergestellt von Dr. L.W.C. van Lit"
+                "english": "Made by Pascal Martinolli",
+                "french": "Conçu par Pascal Martinolli"
             }
         ,
         "flagTip":
             {
-                "english": "Switch to English",
-                "german": "Auf deutsch umstellen"
+                "english": "In English",
+                "french": "En français"
             }
         ,
         "welcomeHeader":
             {
                 "english": "Welcome",
-                "german": "Herzlich willkommen"
+                "french": "Bienvenue"
             }
         ,
         "welcomeBody":
             {
-                "english": "Welcome to the catalogue of the Rudolf Geyer Collection at Stift Florian. This collection spans more than 1.500 titles, collected by Rudolf Geyer († 1929), professor at Vienna University and scholar of Arabic literature. The collection consists mostly of printed books, from both Europe and the Middle East, all of them from the 19th century or early 20th century. A handful of manuscripts are also preserved. Use the search box below to narrow your focus, and click on the circle with an i next to the title for more information. The sort functions are fairly limited, only sorting alphabetical or numerical low to high. If no value is given, it is sorted to the top. For Author sorting, preference is given to first author, then editor, then translator.",
-                "german": "Willkommen beim Katalog dem Nachlass Rudolf Geyer im Stift Florian. Diese Kollektion umfasst mehr als 1.500 Titel, gesammelt von Rudolf Geyer († 1929), Professor an der Universität Wien und Gelehrter für arabische Literatur. Die Sammlung besteht hauptsächlich aus gedruckten Büchern aus Europa und dem Nahen Osten, alle aus dem 19. oder frühen 20. Jahrhundert. Eine Handvoll Manuskripte sind ebenfalls erhalten. Verwenden Sie das Suchfeld, um den Fokus einzugrenzen, und klicken Sie auf den Kreis mit einem i neben dem Titel, um weitere Informationen zu erhalten. Die Sortierfunktionen sortieren nur alphabetisch oder numerisch von niedrich nach hoch. Wenn kein Wert angegeben ist, wird dieser nach oben sortiert. Bei der Autorensortierung wird der Verfasser, dann der Herausgeber und dann der Übersetzer bevorzugt."
+                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in english and french.",
+                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle, surtout en anglais et en français."
             }
         ,
         "searchButton":
             {
                 "english": "Search",
-                "german": "suchen"
+                "french": "Chercher"
             }
         ,
         "searchBox":
             {
                 "english": "Search for...",
-                "german": "suchen nach..."
+                "french": "Chercher pour..."
             }
         ,
         "searchTip":
             {
                 "english": "Type a term and press Enter or click Search",
-                "german": "Geb einen Begriff ein und drück auf die Eingabetaste oder klick auf Suchen"
+                "french": "Saisir un terme et Entrée ou Search"
             }
         ,
         "sortBy":
             {
                 "english": "Sort by: ",
-                "german": "Sortiere nach: "
+                "french": "Trier par: "
             }
         ,
         "sortTitleCaption":
             {
                 "english": "Title",
-                "german": "Titel"
+                "french": "Titre"
             }
         ,
         "sortAuthorCaption":
             {
                 "english": "Author",
-                "german": "Verfasser"
+                "french": "Auteur"
             }
         ,
         "sortYearCaption":
             {
                 "english": "Year",
-                "german": "Jahre"
+                "french": "Année"
             }
         ,
         "beginTitleCatalog":
             {
-                "english": "All entries of the Geyer Catalogue",
-                "german": "Alle Einträge des Geyer-Katalogs"
+                "english": "All entries of the bibliography",
+                "french": "Tous les éléments"
             }
         ,
         "noResultsTitleCatalog":
             {
                 "english": "No results, showing all entries instead:",
-                "german": "Keine Ergebnisse, stattdessen werden alle Einträge angezeigt:"
+                "french": "Pas de résultats, voir tous les éléments : "
             }
         ,
         "againTitleCatalog":
             {
                 "english": "Showing all entries again:",
-                "german": "Alle Einträge erneut angezeigt:"
+                "french": "Voir tous les éléments à nouveau :"
             }
         ,
         "foundItemsCatalog":
             {
                 "english": "Number of results:",
-                "german": " Anzahl der Ergebnisse:"
+                "french": "Nombre de résultat :"
             },
         "authorCatalog":
             {
                 "english": "Author: ",
-                "german": "Verfasser: "
+                "french": "Auteur : "
             }
         ,
         "editorCatalog":
             {
                 "english": "Editor: ",
-                "german": "Herausgeber: "
+                "french": "Éditeur: "
             },
         "translatorCatalog":
             {
                 "english": "Translator: ",
-                "german": "Übersetzer: "
+                "french": "Traducteur: "
             },
         "noAuthorCatalog":
             {
                 "english": "No author details. ",
-                "german": "Keine Autorendetails. "
+                "french": "Pas d'auteurs. "
             },
         "numberVolumesCatalog":
             {
                 "english": "Number of volumes: ",
-                "german": "Anzahl Banden: "
+                "french": "Nombre de volumes : "
             },
         "publisherCatalog":
             {
                 "english": "Publisher: ",
-                "german": "Verlag: "
+                "french": "Maison d'édition : "
             },
         "placeCatalog":
             {
                 "english": "Place: ",
-                "german": "Stelle: "
+                "french": "Lieu : "
             },
         "yearCatalog":
             {
                 "english": "Year: ",
-                "german": "Jahr: "
+                "french": "Année : "
             },
         "additionalCatalog":
             {
                 "english": "Additional information on title page: ",
-                "german": "Weitere Informationen auf der Titelseite: "
+                "french": "Informations additionnelles : "
             },
         "callNumberCatalog":
             {
                 "english": "Call Number: ",
-                "german": "Rufnummer: "
+                "french": "Cote : "
             },
         "urlCatalog":
             {
                 "english": "Click here for a digitized copy",
-                "german": "Klicken Sie hier für eine digitalisierte Kopie"
+                "french": "Lien électronique"
             },
         "closeCatalog":
             {
                 "english": "Close",
-                "german": "schließen"
+                "french": "Fermer"
             }
     }
