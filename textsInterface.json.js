@@ -20,8 +20,8 @@ var texts =
         ,
         "flagTip":
             {
-                "english": "English",
-                "french": "Français"
+                "english": "In English",
+                "french": "En français"
             }
         ,
         "welcomeHeader":
@@ -32,8 +32,8 @@ var texts =
         ,
         "welcomeBody":
             {
-                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in english and french.",
-                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle sur table. Surtout en anglais et en français."
+                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in English and in French.",
+                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle. Surtout en anglais et en français."
             }
         ,
         "searchButton":
