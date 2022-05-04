@@ -2,20 +2,20 @@ var texts =
     {
         "headline":
             {
-                "english": "Bibliography of TTRPG",
-                "french": "Bibliographie de jeux de rôle sur table"
+                "english": "Academic bibliography on tabletop role-plyaing games",
+                "french": "Bibliographie universitaire sur le jeu de rôle sur table"
             }
         ,
         "stiftFlorianTip":
             {
-                "english": "Webite of Pascal Martinolli",
+                "english": "Website of Pascal Martinolli",
                 "french": "Site de Pascal Martinolli"
             }
         ,
         "digitalOrientalistTip":
             {
-                "english": "Made by Pascal Martinolli",
-                "french": "Conçu par Pascal Martinolli"
+                "english": "Curated by Pascal Martinolli",
+                "french": "Sélectionnée par Pascal Martinolli"
             }
         ,
         "flagTip":

@@ -54,7 +54,7 @@ window.onload = function() {
 
   // Initial building of shadow catalog and interface
   Reducing_Catalogue(catData);
-  Switch_Language("german");
+  Switch_Language("french");
 };
 
 // 2. Creating a shadow-catalog with simplified entries to easier match a search term in the search function
@@ -96,7 +96,7 @@ function Simplify_Term(inputWord) {
   return returnedNoSpaces;
 }
 
-// 4. Switching interface to different language (currently German-English)
+// 4. Switching interface to different language (currently French-English)
 // Called by (e)window.onload and (e)flagTip.onclick
 function Switch_Language(language) {
   // Array of words that are both keys to the texts-Object and elementIDs of the webapp
