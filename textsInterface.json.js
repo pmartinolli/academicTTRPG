@@ -32,8 +32,8 @@ var texts =
         ,
         "welcomeBody":
             {
-                "english": "",
-                "french": ""
+                "english": "Academic papers, thesis, books,... on tabletop roleplaying games. Mostly in english and french. https://www.zotero.org/groups/446523/academicttrpg",
+                "french": "Articles, thèses, livres académiques,... sur les jeux de rôle, surtout en anglais et en français. https://www.zotero.org/groups/446523/academicttrpg"
             }
         ,
         "searchButton":
@@ -51,13 +51,13 @@ var texts =
         "searchTip":
             {
                 "english": "Type a term and press Enter or click Search",
-                "french": "Geb einen Begriff ein und drück auf die Eingabetaste oder klick auf Suchen"
+                "french": "Saisir un terme et Entrée ou Search"
             }
         ,
         "sortBy":
             {
                 "english": "Sort by: ",
-                "french": "Sortiere nach: "
+                "french": "Trier par: "
             }
         ,
         "sortTitleCaption":
@@ -80,86 +80,86 @@ var texts =
         ,
         "beginTitleCatalog":
             {
-                "english": "All entries of the Geyer Catalogue",
-                "french": "Alle Einträge des Geyer-Katalogs"
+                "english": "All entries of the bibliography",
+                "french": "Tous les éléments"
             }
         ,
         "noResultsTitleCatalog":
             {
                 "english": "No results, showing all entries instead:",
-                "french": "Keine Ergebnisse, stattdessen werden alle Einträge angezeigt:"
+                "french": "Pas de résultats, voir tous les éléments : "
             }
         ,
         "againTitleCatalog":
             {
                 "english": "Showing all entries again:",
-                "french": "Alle Einträge erneut angezeigt:"
+                "french": "Voir tous les éléments à nouveau :"
             }
         ,
         "foundItemsCatalog":
             {
                 "english": "Number of results:",
-                "french": " Anzahl der Ergebnisse:"
+                "french": "Nombre de résultat :"
             },
         "authorCatalog":
             {
                 "english": "Author: ",
-                "french": "Verfasser: "
+                "french": "Auteur : "
             }
         ,
         "editorCatalog":
             {
                 "english": "Editor: ",
-                "french": "Herausgeber: "
+                "french": "Éditeur: "
             },
         "translatorCatalog":
             {
                 "english": "Translator: ",
-                "french": "Übersetzer: "
+                "french": "Traducteur: "
             },
         "noAuthorCatalog":
             {
                 "english": "No author details. ",
-                "french": "Keine Autorendetails. "
+                "french": "Pas d'auteurs. "
             },
         "numberVolumesCatalog":
             {
                 "english": "Number of volumes: ",
-                "french": "Anzahl Banden: "
+                "french": "Nombre de volumes : "
             },
         "publisherCatalog":
             {
                 "english": "Publisher: ",
-                "french": "Verlag: "
+                "french": "Maison d'édition : "
             },
         "placeCatalog":
             {
                 "english": "Place: ",
-                "french": "Stelle: "
+                "french": "Lieu : "
             },
         "yearCatalog":
             {
                 "english": "Year: ",
-                "french": "Jahr: "
+                "french": "Année : "
             },
         "additionalCatalog":
             {
                 "english": "Additional information on title page: ",
-                "french": "Weitere Informationen auf der Titelseite: "
+                "french": "Informations additionnelles : "
             },
         "callNumberCatalog":
             {
                 "english": "Call Number: ",
-                "french": "Rufnummer: "
+                "french": "Cote : "
             },
         "urlCatalog":
             {
                 "english": "Click here for a digitized copy",
-                "french": "Klicken Sie hier für eine digitalisierte Kopie"
+                "french": "Lien électronique"
             },
         "closeCatalog":
             {
                 "english": "Close",
-                "french": "schließen"
+                "french": "Fermer"
             }
     }
