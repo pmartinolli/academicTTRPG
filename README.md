@@ -13,6 +13,7 @@
   - rename it `textsGeyerCatalog.json.js`
   - edit the file and add `var catData =`  at the very beginning, before the `[`
   - Replace the file in repository by this one.
+- Set up GitHub to publish webpages : Settings > Pages > Source: Main + Root + Save.
 
 ## Bugs
 - Sorting by Author and Year doesn't work.
