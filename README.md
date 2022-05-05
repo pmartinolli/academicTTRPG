@@ -4,8 +4,9 @@
 ## Zotero +json +GitHub
 
 - Fork or copy this repository.
-- Change the files : 
+- Change the file :
   - pm.png
+- Change the content of the files : 
   - index.html
   - textsInterface.json.js
 - Export your references from Zotero in CSL JSON format.
