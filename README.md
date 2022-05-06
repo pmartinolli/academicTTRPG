@@ -20,4 +20,4 @@
 
 ## Acknowledgements
 
-- This code in javascript was developped by [DigitalOrientalist](https://lwcvl.github.io/RudolfGeyerCatalog/) [#](https://digitalorientalist.com/2020/12/18/turning-a-zotero-bibliography-into-an-online-browsable-catalog/) (GNU GPL 3, 2007). 
+- This code in javascript was developped by [DigitalOrientalist](https://twitter.com/DigiOrientalist) for [Geyer catalog](https://lwcvl.github.io/RudolfGeyerCatalog/). [Original recipe](https://digitalorientalist.com/2020/12/18/turning-a-zotero-bibliography-into-an-online-browsable-catalog/) (GNU GPL 3, 2007). 
