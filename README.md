@@ -1,7 +1,5 @@
 # AcademicTTRPG
  Bibliography of academic papers, thesis, books,... on tabletop roleplaying games. Mostly in English and French. 
 
-## Bugs
-- Sorting by Author and Year doesn't work.
-
+Features explained here : https://pmartinolli.github.io/blog/2026/zotero-rdf-viewer/
 
